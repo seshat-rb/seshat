@@ -6,8 +6,8 @@ require 'seshat/version'
 Gem::Specification.new do |gem|
   gem.name          = "seshat"
   gem.version       = Seshat::VERSION
-  gem.authors       = ["Daniel da Silva Ferreira"]
-  gem.email         = ["danieldasilvaferreira@gmail.com"]
+  gem.authors       = ["Hirohito Miyosui"]
+  gem.email         = ["hirohito.miyosui@miyosui.com"]
   gem.description   = %q{Seshat}
   gem.summary       = %q{Seshat}
   gem.homepage      = ""
