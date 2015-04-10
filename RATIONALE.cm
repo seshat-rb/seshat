@@ -1,0 +1,14 @@
+= RATIONALE
+
+== CleanMod
+
+* No indentation
+
+* Text highlights
+** ~+foo+~ 
+** ~-foo-~
+** ~*foo*~
+** ~_foo_~
+** ~~foo~~
+
+Allows combinations of bold, italic, underline and so on...
